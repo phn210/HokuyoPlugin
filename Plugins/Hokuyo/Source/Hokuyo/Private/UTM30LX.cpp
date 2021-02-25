@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "UTM30LX.h"
+#include <Hokuyo.h>
 
 
 AUTM30LX::AUTM30LX(const FObjectInitializer& ObjectInitializer) :
